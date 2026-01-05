@@ -155,7 +155,9 @@ Each reduction exactly matches the number of newly appended storage variables, g
 - Upgrade safety enforced by OpenZeppelin
 
 **Proof:**  
-See `screenshots/01_storage_gap_integrity.png`
+The following screenshot demonstrates correct storage gap management across upgrades.
+
+![Storage Gap Integrity](screenshots/01_storage_gap_integrity.png)
 
 ---
 
