@@ -209,7 +209,9 @@ The project includes **comprehensive automated tests**:
 **Result:** All tests pass successfully.
 
 **Proof:**  
-See `screenshots/02_all_tests_passing.png`
+The following screenshot shows that all functional, upgrade, and security tests pass successfully.
+
+![All Tests Passing](screenshots/02_all_tests_passing.png)
 
 ---
 
@@ -233,7 +235,9 @@ This runs:
 - Upgrade validations
 
 **Proof:**  
-See `screenshots/04_docker_tests_passing.png`
+The following screenshot demonstrates successful Docker execution with all tests passing inside the container.
+
+![Docker Tests Passing](screenshots/04_docker_tests_passing.png)
 
 ---
 
